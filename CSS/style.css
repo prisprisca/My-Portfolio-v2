@@ -48,6 +48,9 @@ ul {
 .main-content{
   padding-left: 270px;
 }
+.butt{
+  margin-top: 5rem;
+}
 .padd-15{
   padding-left: 15px;
   padding-right: 15px;
@@ -468,6 +471,11 @@ h3.my-profession{
 .portfolio .portfolio-item-inner .portfolio-img img{
   width: 100%;
   display: block;
+}
+.portfolio-img a{
+  color: var(--skin-color);
+  margin: 60px;
+  align-items: center;
 }
 /* contact */
 .contact-title{
