@@ -102,6 +102,7 @@ ul {
   margin-left: 15px;
   margin-right: 15px;
   position: relative;
+  text-align: center;
 }
 .btn{
   font-size: 16px;
@@ -114,6 +115,8 @@ ul {
   border: none;
   background: var(--skin-color);
   transition: all 0.3s ease;
+  
+  
 }
 .btn:hover{
   transform:scale(1.05) ;
@@ -530,6 +533,9 @@ h3.my-profession{
   flex: 0 0 100%;
   max-width: 100%;
   
+}
+.form-item{
+  text-align: center;
 }
 .contact .contact-form .form-item{
   margin-bottom: 30px;
