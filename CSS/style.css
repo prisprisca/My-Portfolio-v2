@@ -309,6 +309,10 @@ h3.my-profession{
   max-width: 100%;
   
 }
+.about-me{
+  color: white;
+
+}
 .about .about-content .about-text h3{
   font-size: 24px;
   margin-bottom: 15px;
@@ -393,6 +397,9 @@ h3.my-profession{
   color: var(--text-black-900);
   top: -40px;
   font-weight: 400;
+}
+.techs{
+  color: white;
 }
 /* service */
 .service .container{
