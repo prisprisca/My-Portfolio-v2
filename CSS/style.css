@@ -586,7 +586,7 @@ ul.techs {
 }
 .social-icons{
  text-align: center;
- margin-top: 0;
+ margin-top: 15px;
 }
 
 
@@ -636,7 +636,7 @@ ul.techs {
   margin: 6px;
   }
   .social-icons{
-    margin-top: 2rem;
+   margin-top: 10px; 
   }
   .personal-info .row {
     display: flex;
